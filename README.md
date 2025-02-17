@@ -1,7 +1,7 @@
-# HR-Analysis
-![Screenshot 2025-02-17 011915](https://github.com/user-attachments/assets/d1c14b77-42d0-413e-998d-0172c6518b75)
+# Employee Attrition and Satisfaction Insights
 
 **Performance Dashboards **
+
 **Job Satisfaction in Job role by <Sarang >**
 
 ![Screenshot 2025-02-17 012210](https://github.com/user-attachments/assets/3089ae06-3763-49b4-90a3-5872ce28ad54)
